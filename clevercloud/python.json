@@ -1,0 +1,7 @@
+{
+"deploy": {
+"pipInstall": true,
+"collectStatic": true,
+"migrate": true
+}
+}
